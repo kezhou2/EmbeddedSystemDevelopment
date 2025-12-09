@@ -15,7 +15,8 @@
   "pluginsConfig": {
     "image-captions": {
       "align": "center", 
-      "caption": "auto"
+      "caption": "auto",
+      "prefix": "图片：" 
     }
   }
 }
