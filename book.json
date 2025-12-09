@@ -1,0 +1,22 @@
+{
+  "title": "基于飞腾派的嵌入式系统开发",
+  "author": "",
+  "language": "zh",
+  // 关键：排除不需要的文件，但必须包含assets目录（默认已包含，避免误排除）
+  "ignore": [
+    "node_modules/*",
+    "_book/*",
+    "*.log",
+    "README-DRAFT.md"
+  ],
+  "plugins": [
+    "-sharing", 
+    "image-captions" 
+  ],
+  "pluginsConfig": {
+    "image-captions": {
+      "align": "center", 
+      "caption": "auto"
+    }
+  }
+}
