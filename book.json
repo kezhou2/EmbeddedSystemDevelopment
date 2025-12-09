@@ -3,10 +3,6 @@
   "author": "",
   "language": "zh",
   "ignore": [
-    "node_modules/*",
-    "_book/*",
-    "*.log",
-    "README-DRAFT.md"
   ],
   "plugins": [
     "-sharing", 
