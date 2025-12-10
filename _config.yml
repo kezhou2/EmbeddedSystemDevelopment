@@ -3,3 +3,4 @@ description: 《基于飞腾派的嵌入式系统开发》
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+markdown: kramdown
